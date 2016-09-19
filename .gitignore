@@ -1,0 +1,9 @@
+.gradle/*
+.settings/*
+bin/*
+src/main/webapp/node_modules/*
+.classpath
+.project
+/bin/
+build/
+src/main/webapp/paytest.html
